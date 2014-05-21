@@ -1,4 +1,0 @@
-canonical-test
-==============
-
-canonical test
